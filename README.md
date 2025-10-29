@@ -1,5 +1,10 @@
+<h3 align="center">
+  Welcome to my github!
+</h3>
+
 <p align="center">
-  <img src="https://jeremyjanin.com/voir-comment-photographier-aurores-boreales-finlande/images/northernlights_dome.gif" width="100%" max-width="600px" alt="Northern Lights">
+<img src="https://jeremyjanin.com/voir-comment-photographier-aurores-boreales-finlande/images/northernlights_dome.gif">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=;Marouane+Abdeldjalil+OULAD+ALI;AI+Engineer+&+Data+Scientist;Backend+Developer" alt="Typing SVG" /></a>
 </p>
 
 <h2 align="center">Connect with Me..</h2>
@@ -61,9 +66,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marouaneoa&theme=dracula&hide_border=false" alt="Streak Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marouaneoa&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-<h3 align="center">Random Dev Quote</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula" alt="Dev Quote" />
 </p>
