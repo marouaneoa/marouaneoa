@@ -4,7 +4,7 @@
 
 <p align="center">
 <img src="https://jeremyjanin.com/voir-comment-photographier-aurores-boreales-finlande/images/northernlights_dome.gif">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=;Marouane+Abdeldjalil+OULAD+ALI;AI+Engineer+&+Data+Scientist;Backend+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=;Marouane+Abdeldjalil+OULAD+ALI;AI+Engineer+and+Data+Scientist;Backend+Developer" alt="Typing SVG" /></a>
 </p>
 
 <h2 align="center">Connect with Me..</h2>
@@ -13,10 +13,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/21513996" target="_blank">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
   <a href="https://kaggle.com/marouaneoa" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
 
