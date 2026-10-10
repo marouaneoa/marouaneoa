@@ -17,5 +17,5 @@
 </p>
 
  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marouaneoa&theme=nord-aurora&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marouaneoa&theme=gotham&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
